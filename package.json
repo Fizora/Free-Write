@@ -10,6 +10,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^5.1.0"
+    "@tailwindcss/vite": "^4.1.10",
+    "express": "^5.1.0",
+    "tailwindcss": "^4.1.10"
   }
 }
